@@ -7,12 +7,17 @@
 
 public class Day1Notes {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        //Print Statements
-System.out.print("Hello world");
+        // Print Statements
+        System.out.print("Hello world\n");
 
+        // Println statements
+        System.out.println("New type of print");
+
+        //printf statements
+        System.out.printf("Adding variable on this print statements");
 
     }
-    
+
 }
