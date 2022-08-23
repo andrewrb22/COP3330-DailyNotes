@@ -18,6 +18,12 @@ public class Day1Notes {
         //printf statements
         System.out.printf("Adding variable on this print statements");
 
+        //Variables: integer, doubles, booleans, characters
+        int age = 36;
+        double money = 7.88;
+        boolean hadDinner = true;
+        char grade = 'A';
+
     }
 
 }
