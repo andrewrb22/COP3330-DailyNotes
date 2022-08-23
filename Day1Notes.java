@@ -24,6 +24,9 @@ public class Day1Notes {
         boolean hadDinner = true;
         char grade = 'A';
 
+        // Print with variables
+        System.out.println("\n\nyou are " + age + " years old");
+
     }
 
 }
