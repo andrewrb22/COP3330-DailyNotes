@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Game {
+public class Day2NotesGame {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
